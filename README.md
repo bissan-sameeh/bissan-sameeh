@@ -4,7 +4,7 @@ I'm a 22-year-old **Flutter Developer** from Gaza, Palestine, with a Bachelor’
 
 ## 💼 Professional Background
 
-- I have 2 years of experiance, Completed a 4-month intensive Flutter training at **Gaza Sky Geeks (GSG)**, building multiple apps from scratch using real APIs and Figma designs.
+- I have +3 years of experiance, Completed a 4-month intensive Flutter training at **Gaza Sky Geeks (GSG)**, building multiple apps from scratch using real APIs and Figma designs.
 - Interned at **PITS**, where I built apps using advanced Flutter concepts including Clean Architecture and state management.
 - Worked on various projects such as a **Quran app**, **task manager**, **chat app**, and contributed to a **car marketplace app** as part of a team.
 
